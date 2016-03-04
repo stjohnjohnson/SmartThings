@@ -7,7 +7,7 @@
  */
 
  definition(
-    name: "Irrigation Virtual Integration App",
+    name: "Virtual Irrigation",
     namespace: "d8adrvn/smart_sprinkler",
     author: "Stan Dotson",
     description: "SmartApp to integrate virtual switches with Smart Sprinkler Device Type",

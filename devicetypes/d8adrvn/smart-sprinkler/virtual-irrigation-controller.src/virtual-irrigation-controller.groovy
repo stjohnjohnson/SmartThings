@@ -2,7 +2,7 @@
 
 
 metadata {
-    definition (name: "VirtualSwitch", author: "badgermanus@gmail.com", namespace: "d8adrvn/smart_sprinkler") {
+    definition (name: "Virtual Irrigation Controller", author: "badgermanus@gmail.com", namespace: "d8adrvn/smart_sprinkler") {
         capability "Switch"
         capability "Momentary"
         capability "Refresh"
